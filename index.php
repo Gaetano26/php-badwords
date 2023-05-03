@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
     <link rel="stylesheet" href="./css/style.css">
   </head>
-  <body>
+  <body class="bg-primary" >
     <div class="wrapper container d-flex flex-column justify-content-center align-items-center">
     <header class="text-center pb-5">
         <h1>Inserisci la parola da censurare e il contenuto.</h1>
@@ -24,7 +24,7 @@
                 <textarea class="form-control" name='text'></textarea>
             </div>
             <div class="text-center py-4" >
-            <button class="btn btn-primary w-100">Invia</button>
+            <button class="btn btn-danger w-100">Invia</button>
             </div>
             
         </form>
