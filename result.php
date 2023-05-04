@@ -16,13 +16,6 @@ if(empty($_POST['word']) && empty($_POST['text'])){
 
 
 
-
-
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
